@@ -1,0 +1,11 @@
+D:\Latihan Web\api-kos\src\KosKu.Domain\bin\Debug\net9.0\KosKu.Domain.deps.json
+D:\Latihan Web\api-kos\src\KosKu.Domain\bin\Debug\net9.0\KosKu.Domain.dll
+D:\Latihan Web\api-kos\src\KosKu.Domain\bin\Debug\net9.0\KosKu.Domain.pdb
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.AssemblyInfoInputs.cache
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.AssemblyInfo.cs
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.csproj.CoreCompileInputs.cache
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.dll
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\refint\KosKu.Domain.dll
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\KosKu.Domain.pdb
+D:\Latihan Web\api-kos\src\KosKu.Domain\obj\Debug\net9.0\ref\KosKu.Domain.dll

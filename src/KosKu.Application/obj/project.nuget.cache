@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OybBswr19Ro=",
+  "success": true,
+  "projectFilePath": "D:\\Latihan Web\\api-kos\\src\\KosKu.Application\\KosKu.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90125429\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\90125429\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\90125429\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\90125429\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
+    "C:\\Users\\90125429\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

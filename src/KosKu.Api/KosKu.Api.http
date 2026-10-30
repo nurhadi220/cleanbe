@@ -1,0 +1,6 @@
+@KosKu.Api_HostAddress = http://localhost:5160
+
+GET {{KosKu.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
